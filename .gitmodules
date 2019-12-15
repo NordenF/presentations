@@ -1,0 +1,3 @@
+[submodule "Esperanto-kaj-vegetarismo/revealjs"]
+	path = Esperanto-kaj-vegetarismo/revealjs
+	url = https://github.com/hakimel/reveal.js.git
